@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(211, 188, 188);
+}
+.h1{
+    text-align: center;
+    color: purple;
+}
+
+.kitob{
+    width: 600px;
+    height: 400px;
+    margin: 50px 70px;
+    border-radius: 50pc;
+}
+
+.about{
+    color: brown;
+    text-align: justify;
+}
+
+form{
+    text-align: center;
+}
+
+button:hover{
+    background-color: #FFF;
+    margin: 5px;
+    cursor: pointer;
+    color: #000;
+}
+
+button{
+    margin: 5px;
+    background-color: #000;
+    color: #fff;
+}
